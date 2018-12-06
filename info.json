@@ -1,0 +1,193 @@
+{
+    "medicine":{
+        "Countries":{
+            "Switzerland":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "University_Geneva":{"points_needed":3,"subjects_needed":["Math"]},
+                    "BLOB":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "UK":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "US":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "Canada":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            }
+            
+        }
+    }, 
+    "Politics":{
+        "Countries":{
+            "Switzerland":{
+                "Universities":{
+                    "University of Geneva":{"points_needed":3,"subjects_needed":["Math"]},
+                    "University of Lausanne":{"points_needed":32,"subjects_needed":["Math"]},
+                    "ETH Zurich":{"points_needed":3,"subjects_needed":["Math"]},
+                    "University of Zurich":{"points_needed":3,"subjects_needed":["Math"]},
+                    "University of Bern":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "UK":{
+                "Universities":{
+                    "Cambridge":{"points_needed":40,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics SL, History HL, Maths SL"]},
+                    "Oxford":{"points_needed":35,"subjects_needed":["English Literature HL, French SL, Maths SL, History HL, Economics HL, Physics/Chemistry/Biology SL"]},
+                    "University of Edinburgh":{"points_needed":34,"subjects_needed":["English Literature HL, French SL, Maths SL, History HL, Economics HL, Physics/Chemistry/Biology SL"]},
+                    "University of Manchester":{"points_needed":36,"subjects_needed":["English Literature HL, French SL, Maths SL, History HL, Economics HL, Physics/Chemistry/Biology SL"]},
+                    "UCL":{"points_needed":34,"subjects_needed":["English Literature HL, French SL, Maths SL, History HL, Economics HL, Physics/Chemistry/Biology SL"]}
+            
+                }
+            },
+            "US":{
+                "Universities":{
+                    "MIT":{"points_needed":42,"subjects_needed":["English Language and Literature SL, Maths HL, Physics/Chemistry/Biology SL, History HL, Economics HL"]},
+                    "Harvard":{"points_needed":40,"subjects_needed":["English Language and Literature SL, Maths HL, Physics/Chemistry/Biology SL, History HL, Economics HL"]},
+                    "Stanford":{"points_needed":38,"subjects_needed":["English Literature HL, Maths SL, Physics/Chemistry/Biology SL, History HL, Economics HL"]},
+                    "Yale":{"points_needed":35,"subjects_needed":["English Literature HL, Maths SL, Physics/Chemistry/Biology SL, History HL, Economics HL"]},
+                    "Columbia":{"points_needed":38,"subjects_needed":["English Literature HL, Maths SL, Physics/Chemistry/Biology SL, History HL, Economics HL"]}
+                }
+            },
+            "Canada":{
+                "Universities":{
+                    "Toronto University":{"points_needed":3,"subjects_needed":["Math"]},
+                    "University of British Columbia":{"points_needed":3,"subjects_needed":["Math"]},
+                    "York University":{"points_needed":3,"subjects_needed":["Math"]},
+                    "University of Waterloo":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Seneca College":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            }
+            
+        }
+    },
+    "Engineering":{
+        "Countries":{
+            "Switzerland":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "UK":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "US":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "Canada":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            }
+            
+        }
+    },
+    "Law":{
+        "Countries":{
+            "Switzerland":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "UK":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "US":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "Canada":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            }
+            
+        }
+    },
+    "Business":{
+        "Countries":{
+            "Switzerland":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "UK":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "US":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "Canada":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            }
+            
+        }
+    },
+    "Education":{
+        "Countries":{
+            "Switzerland":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "UK":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "US":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            },
+            "Canada":{
+                "Universities":{
+                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
+                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                }
+            }
+            
+        }
+    }
+}
+
+
+

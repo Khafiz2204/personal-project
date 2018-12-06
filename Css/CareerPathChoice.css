@@ -1,0 +1,204 @@
+body {
+
+}
+input {
+    background-color:white;
+    border-style: solid;
+    border-width: 2px;
+    border-color:black;
+    color: black;
+    padding: 8px 13px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+
+#Ecolint_logo {
+    margin-left: 325px;
+}
+
+#Choosebutton {
+    background-color:black;
+    border-style: solid;
+    border-width: 2px;
+    border-color:gray;
+    color: black;
+    padding: 8px 13px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+/* Selects all a tags within a button tag; parent_element > child_element*/
+button > a {
+    color:white;
+}
+
+button > a:hover {
+    color:grey;
+    text-decoration: underline;
+}
+
+#AboutME {
+
+    background-color:black;
+    border-style: solid;
+    border-width: 2px;
+    border-color:gray;
+    color: black;
+    padding: 8px 13px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+#PP {
+    margin: auto;
+    text-align: center;
+    margin-top: 0px;
+}
+#ecolintbg{
+    background: url(../Pics/ECO.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#KA {
+    margin: auto;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+#KA2 {
+    margin: auto;
+    text-align: left;
+    margin-top: -195px;
+    margin-left: 100px;
+}
+#KA3 {
+   
+    margin: auto;
+    text-align: left;
+    margin-top: 80px;
+    margin-left: -480px;
+
+}
+#hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 300px;
+    margin-right: 200px;
+    border-style: inset;
+    border-width: 1px;
+}
+#KA4 {
+    margin: auto;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+
+#KA5 {
+    margin: auto;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+
+#KA6 {
+    margin: auto;
+
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+#ChoosePath {
+
+    margin: auto;
+    text-align: center;
+    
+}
+
+#Medicine {
+
+    margin: auto;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#Law {
+
+    margin: auto;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#Politics {
+
+    margin: auto;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#BF {
+
+    margin: auto;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#Education {
+
+    margin: auto;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#EM {
+
+    margin: auto;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+html, body {
+     height: 100%; padding: 0; margin: 0; 
+    }
+
+
+.subject_btn {
+    background:white;
+    width: 33.3%; 
+    height: 33.3%; 
+    float: left; 
+}
+
+#subjects{
+	position: absolute;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+#bottom-row{
+	clear: both;
+	margin-top: 15%;
+}
+
+html, body { 
+    height: 100%; padding: 0; margin: 0; 
+}
+

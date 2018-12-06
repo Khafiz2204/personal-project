@@ -14,7 +14,10 @@
 
 <h2>JavaScript Loops</h2>
 
-<button onmouseover="myFunction()"onmouseleave="DelElements()">Click me</button>
+<button onmouseover="myFunction()" onmouseleave="DelElements()">Click me</button>
+<div id="countries_div">
+</div>
+
 
 <script>
 
@@ -27,11 +30,12 @@ function myFunction() {
     	var btn = document.createElement("button");
         var br = document.createElement("br");
     	var t = document.createTextNode(text);
+        var country_div = document.getElementById("countries_div");
         btn.appendChild(t);
         btn.setAttribute("class","countryNames");
         br.setAttribute("class","countryNames");
-        document.body.appendChild(br);// Adds a break in between buttons
-    	document.body.appendChild(btn);
+        country_div.appendChild(br);// Adds a break in between buttons
+    	country_div.appendChild(btn);
       }
       
 }
@@ -50,6 +54,3 @@ function DelElements(){
 
 </body>
 </html>
-
-
-

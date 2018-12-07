@@ -1,43 +1,56 @@
+
+
 {
     "medicine":{
         "Countries":{
             "Switzerland":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "University_Geneva":{"points_needed":3,"subjects_needed":["Math"]},
-                    "BLOB":{"points_needed":3,"subjects_needed":["Math"]}
+                    "UNIGE":{"points_needed":32,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]},
+                    "EPFL":{"points_needed":38,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Mother tongue/Geography/History SL/HL"]},
+                    "ETH Zurich":{"points_needed":38,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Mother tongue/Geography/History SL/HL"]},
+                    "University of Zurich":{"points_needed":32,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Mother tongue/Geography/History SL/HL"]},
+                    "University of Bern":{"points_needed":32,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Mother tongue/Geography/History SL/HL"]}
                 }
             },
             "UK":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Cambridge":{"points_needed":40,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]},
+                    "Oxford":{"points_needed":35,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]},
+                    "University of Edinburgh":{"points_needed":34,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]},
+                    "University of Manchester":{"points_needed":36,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]},
+                    "UCL":{"points_needed":34,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]}
+            
                 }
             },
             "US":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "MIT":{"points_needed":42,"subjects_needed":["English Literature HL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Economics/Geography/History SL"]},
+                    "Harvard":{"points_needed":40,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]},
+                    "Stanford":{"points_needed":38,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]},
+                    "Yale":{"points_needed":35,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]},
+                    "Columbia":{"points_needed":38,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Biology HL Math HL, Economics/Geography/History SL/HL"]}
                 }
             },
             "Canada":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Toronto University":{"points_needed":27,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Economics/Geography/History/Mother Tongue HL"]},
+                    "University of British Columbia":{"points_needed":27,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Economics/Geography/History/Mother Tongue HL"]},
+                    "York University":{"points_needed":30,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Economics/Geography/History/Mother Tongue HL"]},
+                    "University of Waterloo":{"points_needed":32,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Economics/Geography/History/Mother Tongue HL"]},
+                    "Seneca College":{"points_needed":30,"subjects_needed":["English Language and Literature SL, French SL, Chemistry HL, Biology SL Math HL, Biology HL Math SL, Economics/Geography/History/Mother Tongue HL"]}
                 }
             }
-            
         }
     }, 
     "Politics":{
         "Countries":{
             "Switzerland":{
                 "Universities":{
-                    "University of Geneva":{"points_needed":3,"subjects_needed":["Math"]},
-                    "University of Lausanne":{"points_needed":32,"subjects_needed":["Math"]},
-                    "ETH Zurich":{"points_needed":3,"subjects_needed":["Math"]},
-                    "University of Zurich":{"points_needed":3,"subjects_needed":["Math"]},
-                    "University of Bern":{"points_needed":3,"subjects_needed":["Math"]}
+                    "UNIGE":{"points_needed":32,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics/Geography HL Math SL, History HL, Maths HL Economics/Geography SL"]},
+                    "EPFL":{"points_needed":38,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics/Geography HL Math SL, History HL, Maths HL Economics/Geography SL"]},
+                    "ETH Zurich":{"points_needed":38,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics/Geography HL Math SL, History HL, Maths HL Economics/Geography SL"]},
+                    "University of Zurich":{"points_needed":32,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics/Geography HL Math SL, History HL, Maths HL Economics/Geography SL"]},
+                    "University of Bern":{"points_needed":32,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics/Geography HL Math SL, History HL, Maths HL Economics/Geography SL"]}
                 }
             },
             "UK":{
@@ -61,11 +74,11 @@
             },
             "Canada":{
                 "Universities":{
-                    "Toronto University":{"points_needed":3,"subjects_needed":["Math"]},
-                    "University of British Columbia":{"points_needed":3,"subjects_needed":["Math"]},
-                    "York University":{"points_needed":3,"subjects_needed":["Math"]},
-                    "University of Waterloo":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Seneca College":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Toronto University":{"points_needed":27,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics SL, History HL, Maths SL"]},
+                    "University of British Columbia":{"points_needed":27,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics SL, History HL, Maths SL"]},
+                    "York University":{"points_needed":30,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics SL, History HL, Maths SL"]},
+                    "University of Waterloo":{"points_needed":32,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics SL, History HL, Maths SL"]},
+                    "Seneca College":{"points_needed":30,"subjects_needed":["English Literature HL, French SL, Physics/Chemistry/Biology SL, Economics SL, History HL, Maths SL"]}
                 }
             }
             
@@ -75,26 +88,39 @@
         "Countries":{
             "Switzerland":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "UNIGE":{"points_needed":32,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]},
+                    "EPFL":{"points_needed":38,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]},
+                    "ETH Zurich":{"points_needed":38,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]},
+                    "University of Zurich":{"points_needed":32,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]},
+                    "University of Bern":{"points_needed":32,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]}
                 }
             },
             "UK":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Cambridge":{"points_needed":40,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]},
+                    "Oxford":{"points_needed":35,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]},
+                    "University of Edinburgh":{"points_needed":34,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]},
+                    "University of Manchester":{"points_needed":36,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]},
+                    "UCL":{"points_needed":34,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]}
+            
                 }
             },
             "US":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "MIT":{"points_needed":42,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]},
+                    "Harvard":{"points_needed":40,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]},
+                    "Stanford":{"points_needed":38,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]},
+                    "Yale":{"points_needed":35,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]},
+                    "Columbia":{"points_needed":38,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL"]}
                 }
             },
             "Canada":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Toronto University":{"points_needed":27,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]},
+                    "University of British Columbia":{"points_needed":27,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]},
+                    "York University":{"points_needed":30,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]},
+                    "University of Waterloo":{"points_needed":32,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]},
+                    "Seneca College":{"points_needed":30,"subjects_needed":["English Language and Literature SL, Maths HL, Physics HL, Chemistry SL, French SL Economics/History/Geography HL, French HL Economics/History/Geography SL"]}
                 }
             }
             
@@ -104,26 +130,39 @@
         "Countries":{
             "Switzerland":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "UNIGE":{"points_needed":32,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]},
+                    "EPFL":{"points_needed":38,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]},
+                    "ETH Zurich":{"points_needed":38,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]},
+                    "University of Zurich":{"points_needed":32,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]},
+                    "University of Bern":{"points_needed":32,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]}
                 }
             },
             "UK":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Cambridge":{"points_needed":40,"subjects_needed":["English Literature HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL"]},
+                    "Oxford":{"points_needed":35,"subjects_needed":["English Literature HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL"]},
+                    "University of Edinburgh":{"points_needed":34,"subjects_needed":["English Literature HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL"]},
+                    "University of Manchester":{"points_needed":36,"subjects_needed":["English Literature HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL"]},
+                    "UCL":{"points_needed":34,"subjects_needed":["English Literature HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL"]}
+            
                 }
             },
             "US":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "MIT":{"points_needed":42,"subjects_needed":["English Language and Literature SL, Maths HL, Physics/Chemistry/Biology SL, History HL, Economics HL"]},
+                    "Harvard":{"points_needed":40,"subjects_needed":["English Language and Literature SL, Maths HL, Physics/Chemistry/Biology SL, History HL, Economics HL"]},
+                    "Stanford":{"points_needed":38,"subjects_needed":["English Literature HL, Maths SL, Physics/Chemistry/Biology SL, History HL, Economics HL"]},
+                    "Yale":{"points_needed":35,"subjects_needed":["English Literature HL, Maths SL, Physics/Chemistry/Biology SL, History HL, Economics HL"]},
+                    "Columbia":{"points_needed":38,"subjects_needed":["English Literature HL, Maths SL, Physics/Chemistry/Biology SL, History HL, Economics HL"]}
                 }
             },
             "Canada":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Toronto University":{"points_needed":27,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]},
+                    "University of British Columbia":{"points_needed":27,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]},
+                    "York University":{"points_needed":30,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]},
+                    "University of Waterloo":{"points_needed":32,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]},
+                    "Seneca College":{"points_needed":30,"subjects_needed":["English Language and Literature SL French HL, Math SL, Chemistry/Biology/Physics SL, History HL, Economics HL, French SL English Literature HL"]}
                 }
             }
             
@@ -133,26 +172,39 @@
         "Countries":{
             "Switzerland":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "UNIGE":{"points_needed":32,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "EPFL":{"points_needed":38,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "ETH Zurich":{"points_needed":38,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "University of Zurich":{"points_needed":32,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "University of Bern":{"points_needed":32,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]}
                 }
             },
             "UK":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Cambridge":{"points_needed":40,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "Oxford":{"points_needed":35,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "University of Edinburgh":{"points_needed":34,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "University of Manchester":{"points_needed":36,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "UCL":{"points_needed":34,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]}
+            
                 }
             },
             "US":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "MIT":{"points_needed":42,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "Harvard":{"points_needed":40,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "Stanford":{"points_needed":38,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "Yale":{"points_needed":35,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "Columbia":{"points_needed":38,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]}
                 }
             },
             "Canada":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Toronto University":{"points_needed":27,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "University of British Columbia":{"points_needed":27,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "York University":{"points_needed":30,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "University of Waterloo":{"points_needed":32,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]},
+                    "Seneca College":{"points_needed":30,"subjects_needed":["English Language and Literature SL Chemistry/Biology/Physics HL, Math SL, French SL, Economics HL, History HL, Chemistry/Biology/Physics SL English Literature HL"]}
                 }
             }
             
@@ -162,29 +214,41 @@
         "Countries":{
             "Switzerland":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "UNIGE":{"points_needed":32,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "EPFL":{"points_needed":38,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "ETH Zurich":{"points_needed":38,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "University of Zurich":{"points_needed":32,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "University of Bern":{"points_needed":32,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]}
                 }
             },
             "UK":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Cambridge":{"points_needed":40,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "Oxford":{"points_needed":35,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "University of Edinburgh":{"points_needed":34,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "University of Manchester":{"points_needed":36,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "UCL":{"points_needed":34,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]}
+            
                 }
             },
             "US":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "MIT":{"points_needed":42,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "Harvard":{"points_needed":40,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "Stanford":{"points_needed":38,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "Yale":{"points_needed":35,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "Columbia":{"points_needed":38,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]}
                 }
             },
             "Canada":{
                 "Universities":{
-                    "EPL":{"points_needed":3,"subjects_needed":["Math SL"]},
-                    "Geneva":{"points_needed":3,"subjects_needed":["Math"]}
+                    "Toronto University":{"points_needed":27,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "University of British Columbia":{"points_needed":27,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "York University":{"points_needed":30,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "University of Waterloo":{"points_needed":32,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]},
+                    "Seneca College":{"points_needed":30,"subjects_needed":["English Literature HL, French HL, Math SL, History/Economics/Geography/Psychology HL Chemistry/Physics/Biology SL, Chemistry/Physics/Biology HL History/Economics/Geography/Psychology SL"]}
                 }
             }
-            
         }
     }
 }
